@@ -12,4 +12,6 @@ public class HelloShon
     Integer X = u;
     //What are we doing
 
+    String blue = "What the fuck did you do????";
+
 }
